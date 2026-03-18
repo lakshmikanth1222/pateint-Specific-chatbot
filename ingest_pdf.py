@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer
 # ==========================================
 # 1. CONFIGURATION 
 # ==========================================
-DB_URL = "postgresql://neondb_owner:npg_Wt1zuaco6Vsv@ep-proud-sun-a16kwegi-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+DB_URL = ""
 DATA_FOLDER = r"C:\Users\laksh\OneDrive\Desktop\ingest\dummy_data"
 CSV_PATH = r"C:\Users\laksh\Downloads\patient.csv"
 
